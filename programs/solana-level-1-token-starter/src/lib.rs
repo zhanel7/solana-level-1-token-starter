@@ -5,7 +5,7 @@ pub mod instructions;
 
 pub use instructions::*;
 
-declare_id!("3pX5NKLru1UBDVckynWQxsgnJeUN3N1viy36Gk9TSn8d");
+declare_id!("2bwcZ5CTRqLyTrWttDbmcWunfuLzAtJGkaQ6fmY8qy7c");
 
 #[program]
 pub mod solana_level_1_token_starter {
